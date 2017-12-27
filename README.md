@@ -1,6 +1,4 @@
-# cryptoBucket
-
-<h2> Interesting Links: </h2>
+<h2> Crypto-links: </h2>
 
 <ul>
   <h3>Double-link</h3>
@@ -24,3 +22,5 @@
   <h3>Risky Trader's Tips 101</h3>
 <li>This is called <a href="https://www.investopedia.com/articles/optioninvestor/11/how-to-be-a-successful-options-trader.asp"> 10 Traits of a Successful Options Trader</a> but it could just as easily be applied to dealing with Crypto, no matter your Crypto goals.
 </ul>
+
+<small> Feel free to add to this list </small>
